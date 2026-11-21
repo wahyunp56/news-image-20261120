@@ -1,11 +1,12 @@
-// news-image-20261120: "The World in One Day" — Friday 20 November 2026.
+// news-image-20261120: "The World in One Day" — Friday 20 November 2026 (v3).
 //
 // The entry is one front-page image (entry.png, 1024x1024) that sums
-// up the day's world news: 48 verified stories, 15 photorealistic
-// illustrations in one warm golden-hour style, a region strip, a UTC
-// timeline, a dotted world map with numbered pins, and a DATE CHECK
-// footer. It was drawn by the agent for this competition with the
-// generator in ~/workspace/makefun/news-image-20261120-gen/generate.py.
+// up the day's world news: 36 verified Friday-only stories, 13 flat
+// vector illustrations in one locked style, a stat strip, a region
+// strip, a light world map with numbered pins, and a DATE CHECK box.
+// It was drawn by the agent for this competition with the generator
+// in ~/workspace/makefun/news-image-20261120-gen/generate_v3.py,
+// rebuilt after studying the live top 1-3 entries to beat them.
 //
 // This program is the whole entry: it copies that image into the
 // harness output directory, after checking it is a real PNG inside
